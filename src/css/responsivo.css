@@ -1,0 +1,13 @@
+@media (max-width: 1120px){
+    .cabecalho .logo{
+        max-width: 190px;
+    } 
+
+    .selecao-personages{
+        flex-direction: column-reverse;
+    }
+
+
+
+}
+
